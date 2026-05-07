@@ -9,6 +9,7 @@
     body { background: #111; color: #ddd; }
     .sidebar { background: #1a1a1a; }
     .markdown-section h1, h2 { color: #ff4d94; }
+    .content { padding-top: 20px; }
   </style>
 </head>
 <body>
@@ -16,15 +17,19 @@
   <script>
     window.$docsify = {
       name: '舞团模特Wiki',
-      repo: '你的用户名/仓库名',
+      repo: 'Remu97/repo-20260507',
       themeColor: '#ff4d94',
       loadSidebar: true,
       subMaxLevel: 3,
-      search: { paths: 'auto', placeholder: '搜索模特/舞团/艺名' },
-      coverpage: true,
+      search: {
+        paths: 'auto',
+        placeholder: '搜索模特/舞团/艺名'
+      },
+      coverpage: false,
       onlyCover: false,
       homepage: 'README.md',
-      // 可选：加密码保护（后面我再给你代码）
+      routerMode: 'hash',           // 解决GitHub Pages路径问题
+      sidebarDisplay: 'block'       // 强制显示侧边栏
     }
   </script>
   <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
