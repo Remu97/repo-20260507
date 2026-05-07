@@ -1,13 +1,17 @@
 - **舞团列表**
-  - [魔丽舞社（已倒闭）](docs/魔丽.md)
-  - [Pink](docs/Pink.md)
-  - [集美社](docs/集美.md)
-  - [花漾舞姿 / muse520](docs/花漾.md)
-  - [精舞社](docs/精舞.md)
+  - [魔丽舞社（已倒闭）](docs/魔丽舞社（已倒闭）.md)
+  - [Pink Studio](docs/Pink Studio.md)
+  - [集美社](docs/集美社.md)
+  - [muse522](docs/muse522.md)
+  - [精舞社](docs/精舞社.md)
   - [红玫瑰](docs/红玫瑰.md)
   - [SPOP](docs/SPOP.md)
   - [热舞猫](docs/热舞猫.md)
   - [胧月馆](docs/胧月馆.md)
+  - [艺舞吧（已倒闭）](docs/艺舞吧（已倒闭）.md)
+  - [RockMan（已倒闭）](docs/RockMan（已倒闭）.md)
+  - [假面舞社（已倒闭）](docs/假面舞社（已倒闭）.md)
+  - [炫舞世家](docs/炫舞世家.md)
 
 - **模特总索引**
   - [模特映射表](docs/模特索引.md)
