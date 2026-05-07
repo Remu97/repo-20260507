@@ -1,6 +1,6 @@
 - **舞团列表**
   - [魔丽舞社（已倒闭）](docs/魔丽舞社（已倒闭）.md)
-  - [Pink Studio](docs/Pink Studio.md)
+  - [Pink_Studio](docs/Pink_Studio.md)
   - [集美社](docs/集美社.md)
   - [muse522](docs/muse522.md)
   - [精舞社](docs/精舞社.md)
